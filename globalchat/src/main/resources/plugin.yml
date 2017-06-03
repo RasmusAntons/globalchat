@@ -1,0 +1,12 @@
+name: ${name}
+version: ${version}
+description: ${description}
+author: ${author}
+website: ${url}
+main: ${mainClass}
+depend: [datapass-bukkit]
+commands:
+  c:
+    description: "List available colours"
+  close:
+    description: "sends everyone to the lobby to close the server"
